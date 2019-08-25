@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "\uAC8C\uC784\uC2E4\uD589/\uD53C\uC528 \uB370\uBAA8\uBC84\uC804.unity"
+  isLoaded: 1
+  isActive: 1
